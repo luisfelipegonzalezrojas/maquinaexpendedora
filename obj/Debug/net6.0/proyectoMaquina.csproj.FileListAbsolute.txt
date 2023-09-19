@@ -1,0 +1,14 @@
+C:\Users\felip\OneDrive\Documentos\.Net\proyecto maquina\proyectoMaquina\bin\Debug\net6.0\proyectoMaquina.exe
+C:\Users\felip\OneDrive\Documentos\.Net\proyecto maquina\proyectoMaquina\bin\Debug\net6.0\proyectoMaquina.deps.json
+C:\Users\felip\OneDrive\Documentos\.Net\proyecto maquina\proyectoMaquina\bin\Debug\net6.0\proyectoMaquina.runtimeconfig.json
+C:\Users\felip\OneDrive\Documentos\.Net\proyecto maquina\proyectoMaquina\bin\Debug\net6.0\proyectoMaquina.dll
+C:\Users\felip\OneDrive\Documentos\.Net\proyecto maquina\proyectoMaquina\bin\Debug\net6.0\proyectoMaquina.pdb
+C:\Users\felip\OneDrive\Documentos\.Net\proyecto maquina\proyectoMaquina\obj\Debug\net6.0\proyectoMaquina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Documentos\.Net\proyecto maquina\proyectoMaquina\obj\Debug\net6.0\proyectoMaquina.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Documentos\.Net\proyecto maquina\proyectoMaquina\obj\Debug\net6.0\proyectoMaquina.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Documentos\.Net\proyecto maquina\proyectoMaquina\obj\Debug\net6.0\proyectoMaquina.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Documentos\.Net\proyecto maquina\proyectoMaquina\obj\Debug\net6.0\proyectoMaquina.dll
+C:\Users\felip\OneDrive\Documentos\.Net\proyecto maquina\proyectoMaquina\obj\Debug\net6.0\refint\proyectoMaquina.dll
+C:\Users\felip\OneDrive\Documentos\.Net\proyecto maquina\proyectoMaquina\obj\Debug\net6.0\proyectoMaquina.pdb
+C:\Users\felip\OneDrive\Documentos\.Net\proyecto maquina\proyectoMaquina\obj\Debug\net6.0\proyectoMaquina.genruntimeconfig.cache
+C:\Users\felip\OneDrive\Documentos\.Net\proyecto maquina\proyectoMaquina\obj\Debug\net6.0\ref\proyectoMaquina.dll
